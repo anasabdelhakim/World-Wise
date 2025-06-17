@@ -1,8 +1,4 @@
-Perfect! Here's your updated **README.md** including the **Live Demo** badge and link:
 
----
-
-```markdown
 # 🌍 WorldWise
 
 **WorldWise** is a React application that helps you keep track of cities you've visited around the world. You can add, view, and delete cities with geographic details, all backed by a local fake REST API and styled using CSS Modules.
@@ -169,3 +165,5 @@ MIT
 **Anas Abdelhakim**
 🔗 [LinkedIn](https://www.linkedin.com/in/anas-abdelhakim-548aa5268)
 🐙 [GitHub](https://github.com/anasabdelhakim)
+
+
