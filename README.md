@@ -3,7 +3,7 @@
 
 **WorldWise** is a React application that helps you keep track of cities you've visited around the world. You can add, view, and delete cities with geographic details, all backed by a local fake REST API and styled using CSS Modules.
 
-[[Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://world-wise-three-rho.vercel.app)
+[Demo:](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://world-wise-three-rho.vercel.app)
 
 ---
 
