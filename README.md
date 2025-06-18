@@ -136,13 +136,7 @@ Supported action types:
 * `"city/deleted"`
 * `"rejected"`
 
----
 
-## 🌍 Live Demo
-
-👉 [Click here to try it out!](https://world-wise-three-rho.vercel.app/app/cities)
-
----
 
 ## 🧪 Coming Soon
 
